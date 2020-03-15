@@ -10,6 +10,6 @@
 * SASS
 * Axios
 
-Ссылка на приложение [http://azimabdi-weather-app.surge.sh](azimabdi-weather-app.surge.sh)
+Ссылка на приложение [https://azimabdi-weather-app.surge.sh](azimabdi-weather-app.surge.sh)
 
 Weather provider: [https://openweathermap.org](https://openweathermap.org)
