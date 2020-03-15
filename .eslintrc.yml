@@ -1,0 +1,25 @@
+parser: babel-eslint
+
+extends:
+  - 'airbnb-base'
+  - 'plugin:react/recommended'
+
+settings:
+  react:
+    version: 16.6.3
+
+env:
+  node: true
+  browser: true
+
+plugins:
+  - 'react'
+
+rules:
+  import/no-unresolved: 0
+  import/extensions: 0
+  react/prop-types: 0
+  indent: 0
+  max-len: 0
+  no-trailing-spaces: 0
+  no-console: 0
